@@ -45,3 +45,5 @@ Cluster 3:
 - Low spending & High income group.
 
 When it comes to promotions, it's fascinating to see how different groups of people respond. Not everyone embraces promotions with open arms; in fact, the majority of individuals tend to pass on them altogether. It's intriguing to delve into the reasons behind this behavior and explore the various factors that influence people's decisions. By understanding why some individuals are less inclined to accept promotions, businesses can fine-tune their marketing strategies and tailor their offers to better meet the needs and preferences of different customer segments. It's a captivating area of study that unravels the complexities of human behavior and sheds light on the diverse responses to promotional initiatives.
+
+![spending_graph](output.png)
